@@ -1,0 +1,732 @@
+[
+  {
+    "id": 62,
+    "name": "Ligue 2",
+    "country": "France"
+  },
+  {
+    "id": 61,
+    "name": "Ligue 1",
+    "country": "France"
+  },
+  {
+    "id": 71,
+    "name": "Serie A",
+    "country": "Brazil"
+  },
+  {
+    "id": 39,
+    "name": "Premier League",
+    "country": "England"
+  },
+  {
+    "id": 78,
+    "name": "Bundesliga",
+    "country": "Germany"
+  },
+  {
+    "id": 135,
+    "name": "Serie A",
+    "country": "Italy"
+  },
+  {
+    "id": 88,
+    "name": "Eredivisie",
+    "country": "Netherlands"
+  },
+  {
+    "id": 140,
+    "name": "La Liga",
+    "country": "Spain"
+  },
+  {
+    "id": 79,
+    "name": "2. Bundesliga",
+    "country": "Germany"
+  },
+  {
+    "id": 80,
+    "name": "3. Liga",
+    "country": "Germany"
+  },
+  {
+    "id": 40,
+    "name": "Championship",
+    "country": "England"
+  },
+  {
+    "id": 43,
+    "name": "National League",
+    "country": "England"
+  },
+  {
+    "id": 41,
+    "name": "League One",
+    "country": "England"
+  },
+  {
+    "id": 42,
+    "name": "League Two",
+    "country": "England"
+  },
+  {
+    "id": 203,
+    "name": "Süper Lig",
+    "country": "Turkey"
+  },
+  {
+    "id": 204,
+    "name": "1. Lig",
+    "country": "Turkey"
+  },
+  {
+    "id": 205,
+    "name": "2. Lig",
+    "country": "Turkey"
+  },
+  {
+    "id": 552,
+    "name": "3. Lig - Group 1",
+    "country": "Turkey"
+  },
+  {
+    "id": 553,
+    "name": "3. Lig - Group 2",
+    "country": "Turkey"
+  },
+  {
+    "id": 554,
+    "name": "3. Lig - Group 3",
+    "country": "Turkey"
+  },
+  {
+    "id": 63,
+    "name": "National 1",
+    "country": "France"
+  },
+  {
+    "id": 67,
+    "name": "National 2 - Group A",
+    "country": "France"
+  },
+  {
+    "id": 68,
+    "name": "National 2 - Group B",
+    "country": "France"
+  },
+  {
+    "id": 69,
+    "name": "National 2 - Group C",
+    "country": "France"
+  },
+  {
+    "id": 70,
+    "name": "National 2 - Group D",
+    "country": "France"
+  },
+  {
+    "id": 129,
+    "name": "Primera Nacional",
+    "country": "Argentina"
+  },
+  {
+    "id": 134,
+    "name": "Torneo Federal A",
+    "country": "Argentina"
+  },
+  {
+    "id": 72,
+    "name": "Serie B",
+    "country": "Brazil"
+  },
+  {
+    "id": 75,
+    "name": "Serie C",
+    "country": "Brazil"
+  },
+  {
+    "id": 76,
+    "name": "Serie D",
+    "country": "Brazil"
+  },
+	{
+    "id": 128,
+    "name": "Liga Profesional Argentina",
+    "country": "Argentina"
+  },
+  {
+    "id": 141,
+    "name": "Segunda División",
+    "country": "Spain"
+  },
+  {
+    "id": 136,
+    "name": "Serie B",
+    "country": "Italy"
+  },
+  {
+    "id": 89,
+    "name": "Eerste Divisie",
+    "country": "Netherlands"
+  },
+  {
+    "id": 138,
+    "name": "Serie C - Girone A",
+    "country": "Italy"
+  },
+  {
+    "id": 49,
+    "name": "National League - Play-offs",
+    "country": "England"
+  },
+  {
+    "id": 942,
+    "name": "Serie C - Girone B",
+    "country": "Italy"
+  },
+  {
+    "id": 943,
+    "name": "Serie C - Girone C",
+    "country": "Italy"
+  },
+  {
+    "id": 50,
+    "name": "National League - North",
+    "country": "England"
+  },
+  {
+    "id": 702,
+    "name": "Premier League 2 Division One",
+    "country": "England"
+  },
+  {
+    "id": 624,
+    "name": "Carioca - 1",
+    "country": "Brazil"
+  }, 
+  {
+    "id": 4,
+    "name": "Euro Championship",
+    "country": "World"
+  },
+  {
+    "id": 21,
+    "name": "Confederations Cup",
+    "country": "World"
+  },
+  {
+    "id": 1,
+    "name": "World Cup",
+    "country": "World"
+  },
+  {
+    "id": 803,
+    "name": "Asian Games",
+    "country": "World"
+  },
+  {
+    "id": 804,
+    "name": "Caribbean Cup",
+    "country": "World"
+  },
+  {
+    "id": 7,
+    "name": "Asian Cup",
+    "country": "World"
+  },
+  {
+    "id": 8,
+    "name": "World Cup - Women",
+    "country": "World"
+  },
+  {
+    "id": 15,
+    "name": "FIFA Club World Cup",
+    "country": "World"
+  },
+  {
+    "id": 2,
+    "name": "UEFA Champions League",
+    "country": "World"
+  },
+  {
+    "id": 480,
+    "name": "Olympics Men",
+    "country": "World"
+  },
+  {
+    "id": 535,
+    "name": "CECAFA Senior Challenge Cup",
+    "country": "World"
+  },
+  {
+    "id": 28,
+    "name": "SAFF Championship",
+    "country": "World"
+  },
+  {
+    "id": 19,
+    "name": "African Nations Championship",
+    "country": "World"
+  },
+  {
+    "id": 24,
+    "name": "AFF Championship",
+    "country": "World"
+  },
+  {
+    "id": 37,
+    "name": "World Cup - Qualification Intercontinental Play-offs",
+    "country": "World"
+  },
+  {
+    "id": 3,
+    "name": "UEFA Europa League",
+    "country": "World"
+  },
+  {
+    "id": 807,
+    "name": "AFC Challenge Cup",
+    "country": "World"
+  },
+  {
+    "id": 6,
+    "name": "Africa Cup of Nations",
+    "country": "World"
+  },
+  {
+    "id": 9,
+    "name": "Copa America",
+    "country": "World"
+  },
+  {
+    "id": 22,
+    "name": "CONCACAF Gold Cup",
+    "country": "World"
+  },
+  {
+    "id": 23,
+    "name": "EAFF E-1 Football Championship",
+    "country": "World"
+  },
+  {
+    "id": 27,
+    "name": "OFC Champions League",
+    "country": "World"
+  },
+  {
+    "id": 16,
+    "name": "CONCACAF Champions League",
+    "country": "World"
+  },
+  {
+    "id": 17,
+    "name": "AFC Champions League",
+    "country": "World"
+  },
+  {
+    "id": 25,
+    "name": "Gulf Cup of Nations",
+    "country": "World"
+  },
+  {
+    "id": 26,
+    "name": "International Champions Cup",
+    "country": "World"
+  },
+  {
+    "id": 524,
+    "name": "Olympics Women",
+    "country": "World"
+  },
+  {
+    "id": 531,
+    "name": "UEFA Super Cup",
+    "country": "World"
+  },
+  {
+    "id": 805,
+    "name": "Copa Centroamericana",
+    "country": "World"
+  },
+  {
+    "id": 806,
+    "name": "OFC Nations Cup",
+    "country": "World"
+  },
+  {
+    "id": 766,
+    "name": "China Cup",
+    "country": "World"
+  },
+  {
+    "id": 10,
+    "name": "Friendlies",
+    "country": "World"
+  },
+  {
+    "id": 18,
+    "name": "AFC Cup",
+    "country": "World"
+  },
+  {
+    "id": 20,
+    "name": "CAF Confederation Cup",
+    "country": "World"
+  },
+  {
+    "id": 5,
+    "name": "UEFA Nations League",
+    "country": "World"
+  },
+  {
+    "id": 31,
+    "name": "World Cup - Qualification CONCACAF",
+    "country": "World"
+  },
+  {
+    "id": 32,
+    "name": "World Cup - Qualification Europe",
+    "country": "World"
+  },
+  {
+    "id": 33,
+    "name": "World Cup - Qualification Oceania",
+    "country": "World"
+  },
+  {
+    "id": 34,
+    "name": "World Cup - Qualification South America",
+    "country": "World"
+  },
+  {
+    "id": 29,
+    "name": "World Cup - Qualification Africa",
+    "country": "World"
+  },
+  {
+    "id": 30,
+    "name": "World Cup - Qualification Asia",
+    "country": "World"
+  },
+  {
+    "id": 808,
+    "name": "CONCACAF Nations League - Qualification",
+    "country": "World"
+  },
+  {
+    "id": 768,
+    "name": "Arab Club Champions Cup",
+    "country": "World"
+  },
+  {
+    "id": 769,
+    "name": "Premier League Asia Trophy",
+    "country": "World"
+  },
+  {
+    "id": 770,
+    "name": "Pacific Games",
+    "country": "World"
+  },
+  {
+    "id": 772,
+    "name": "Leagues Cup",
+    "country": "World"
+  },
+  {
+    "id": 773,
+    "name": "Sudamericano U20",
+    "country": "World"
+  },
+  {
+    "id": 11,
+    "name": "CONMEBOL Sudamericana",
+    "country": "World"
+  },
+  {
+    "id": 12,
+    "name": "CAF Champions League",
+    "country": "World"
+  },
+  {
+    "id": 13,
+    "name": "CONMEBOL Libertadores",
+    "country": "World"
+  },
+  {
+    "id": 35,
+    "name": "Asian Cup - Qualification",
+    "country": "World"
+  },
+  {
+    "id": 525,
+    "name": "UEFA Champions League Women",
+    "country": "World"
+  },
+  {
+    "id": 533,
+    "name": "CAF Super Cup",
+    "country": "World"
+  },
+  {
+    "id": 534,
+    "name": "CONCACAF Caribbean Club Shield",
+    "country": "World"
+  },
+  {
+    "id": 536,
+    "name": "CONCACAF Nations League",
+    "country": "World"
+  },
+  {
+    "id": 541,
+    "name": "CONMEBOL Recopa",
+    "country": "World"
+  },
+  {
+    "id": 667,
+    "name": "Friendlies Clubs",
+    "country": "World"
+  },
+  {
+    "id": 767,
+    "name": "CONCACAF League",
+    "country": "World"
+  },
+  {
+    "id": 849,
+    "name": "Baltic Cup",
+    "country": "World"
+  },
+  {
+    "id": 881,
+    "name": "Olympics Men - Qualification Concacaf",
+    "country": "World"
+  },
+  {
+    "id": 882,
+    "name": "Olympics Women - Qualification Asia",
+    "country": "World"
+  },
+  {
+    "id": 885,
+    "name": "Campeones Cup",
+    "country": "World"
+  },
+  {
+    "id": 743,
+    "name": "UEFA Championship - Women",
+    "country": "World"
+  },
+  {
+    "id": 848,
+    "name": "UEFA Europa Conference League",
+    "country": "World"
+  },
+  {
+    "id": 856,
+    "name": "CONCACAF Caribbean Club Championship",
+    "country": "World"
+  },
+  {
+    "id": 858,
+    "name": "CONCACAF Gold Cup - Qualification",
+    "country": "World"
+  },
+  {
+    "id": 859,
+    "name": "COSAFA Cup",
+    "country": "World"
+  },
+  {
+    "id": 860,
+    "name": "Arab Cup",
+    "country": "World"
+  },
+  {
+    "id": 869,
+    "name": "CECAFA Club Cup",
+    "country": "World"
+  },
+  {
+    "id": 880,
+    "name": "World Cup - Women - Qualification Europe",
+    "country": "World"
+  },
+  {
+    "id": 902,
+    "name": "Algarve Cup",
+    "country": "World"
+  },
+  {
+    "id": 903,
+    "name": "The Atlantic Cup",
+    "country": "World"
+  },
+  {
+    "id": 910,
+    "name": "Youth Viareggio Cup",
+    "country": "World"
+  },
+  {
+    "id": 36,
+    "name": "Africa Cup of Nations - Qualification",
+    "country": "World"
+  },
+  {
+    "id": 900,
+    "name": "Tipsport Malta Cup",
+    "country": "World"
+  },
+  {
+    "id": 904,
+    "name": "SheBelieves Cup",
+    "country": "World"
+  },
+  {
+    "id": 911,
+    "name": "Southeast Asian Games",
+    "country": "World"
+  },
+  {
+    "id": 913,
+    "name": "CONMEBOL - UEFA Finalissima",
+    "country": "World"
+  },
+  {
+    "id": 914,
+    "name": "Tournoi Maurice Revello",
+    "country": "World"
+  },
+  {
+    "id": 916,
+    "name": "Kirin Cup",
+    "country": "World"
+  },
+  {
+    "id": 919,
+    "name": "Mediterranean Games",
+    "country": "World"
+  },
+  {
+    "id": 937,
+    "name": "Emirates Cup",
+    "country": "World"
+  },
+  {
+    "id": 940,
+    "name": "COTIF Tournament",
+    "country": "World"
+  },
+  {
+    "id": 951,
+    "name": "South American Youth Games",
+    "country": "World"
+  },
+  {
+    "id": 1016,
+    "name": "CAC Games",
+    "country": "World"
+  },
+  {
+    "id": 1008,
+    "name": "CAFA Nations Cup",
+    "country": "World"
+  },
+  {
+    "id": 1013,
+    "name": "All-Island Cup - Women",
+    "country": "World"
+  },
+  {
+    "id": 1024,
+    "name": "UEFA - CONMEBOL - Club Challenge",
+    "country": "World"
+  },
+  {
+    "id": 1028,
+    "name": "Concacaf Central American Cup",
+    "country": "World"
+  },
+  {
+    "id": 1038,
+    "name": "King's Cup",
+    "country": "World"
+  },
+  {
+    "id": 1039,
+    "name": "Premier League International Cup",
+    "country": "World"
+  },
+  {
+    "id": 1043,
+    "name": "African Football League",
+    "country": "World"
+  },
+  {
+    "id": 1045,
+    "name": "Pan American Games",
+    "country": "World"
+  },
+  {
+    "id": 1072,
+    "name": "All Africa Games",
+    "country": "World"
+  },
+  {
+    "id": 960,
+    "name": "Euro Championship - Qualification",
+    "country": "World"
+  },
+  {
+    "id": 1060,
+    "name": "CONMEBOL - Pre-Olympic Tournament",
+    "country": "World"
+  },
+  {
+    "id": 1089,
+    "name": "UAE-Qatar - Super Shield",
+    "country": "World"
+  },
+  {
+    "id": 1105,
+    "name": "Olympics - Intercontinental Play-offs",
+    "country": "World"
+  },
+  {
+    "id": 1123,
+    "name": "Qatar-UAE Super Cup",
+    "country": "World"
+  },
+  {
+    "id": 1129,
+    "name": "ASEAN Club Championship",
+    "country": "World"
+  },
+  {
+    "id": 1132,
+    "name": "AFC Challenge League",
+    "country": "World"
+  },
+  {
+    "id": 1168,
+    "name": "FIFA Intercontinental Cup",
+    "country": "World"
+  },
+  {
+    "id": 1162,
+    "name": "AGCFF Gulf Champions League",
+    "country": "World"
+  },
+  {
+    "id": 1163,
+    "name": "African Nations Championship - Qualification",
+    "country": "World"
+  },
+  {
+    "id": 1169,
+    "name": "EAFF E-1 Football Championship - Qualification",
+    "country": "World"
+  }
+]
