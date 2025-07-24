@@ -1,0 +1,52 @@
+[
+{
+    "id": 71,
+    "name": "Serie A",
+    "country": "Brazil"
+  },
+  {
+    "id": 72,
+    "name": "Serie B",
+    "country": "Brazil"
+  },
+  {
+    "id": 75,
+    "name": "Serie C",
+    "country": "Brazil"
+  },
+  {
+    "id": 76,
+    "name": "Serie D",
+    "country": "Brazil"
+  },
+  {
+    "id": 9,
+    "name": "Copa America",
+    "country": "World"
+  },
+  {
+    "id": 10,
+    "name": "Friendlies",
+    "country": "World"
+  },
+  {
+    "id": 13,
+    "name": "CONMEBOL Libertadores",
+    "country": "World"
+  },
+  {
+    "id": 667,
+    "name": "Friendlies Clubs",
+    "country": "World"
+  },
+  {
+    "id": 881,
+    "name": "Olympics Men - Qualification Concacaf",
+    "country": "World"
+  },
+  {
+    "id": 951,
+    "name": "South American Youth Games",
+    "country": "World"
+  }
+]
