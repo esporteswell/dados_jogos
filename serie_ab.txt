@@ -1,0 +1,17 @@
+[
+{
+    "id": 71,
+    "name": "Serie A",
+    "country": "Brazil"
+  },
+  {
+    "id": 72,
+    "name": "Serie B",
+    "country": "Brazil"
+  },
+  {
+    "id": 13,
+    "name": "CONMEBOL Libertadores",
+    "country": "World"
+  }
+]
