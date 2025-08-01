@@ -1,4 +1,9 @@
 [
+{
+    "id": 73,
+    "name": "Copa do Brasil",
+    "country": "Brazil"
+  },
   {
     "id": 71,
     "name": "Serie A",
