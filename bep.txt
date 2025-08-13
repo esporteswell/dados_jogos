@@ -1,0 +1,22 @@
+[
+{
+    "id": 73,
+    "name": "Copa do Brasil",
+    "country": "Brazil"
+  },
+  {
+    "id": 71,
+    "name": "Serie A",
+    "country": "Brazil"
+  },
+  {
+    "id": 39,
+    "name": "Premier League",
+    "country": "England"
+  },
+  {
+    "id": 140,
+    "name": "La Liga",
+    "country": "Spain"
+  },
+]

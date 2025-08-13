@@ -1,0 +1,7 @@
+[
+  {
+    "id": 39,
+    "name": "Premier League",
+    "country": "England"
+  }
+]

@@ -1,0 +1,77 @@
+[
+{
+    "id": 73,
+    "name": "Copa do Brasil",
+    "country": "Brazil"
+  },
+  {
+    "id": 71,
+    "name": "Serie A",
+    "country": "Brazil"
+  },
+  {
+    "id": 39,
+    "name": "Premier League",
+    "country": "England"
+  },
+  {
+    "id": 140,
+    "name": "La Liga",
+    "country": "Spain"
+  },
+  {
+    "id": 21,
+    "name": "Confederations Cup",
+    "country": "World"
+  },
+  {
+    "id": 1,
+    "name": "World Cup",
+    "country": "World"
+  },
+  {
+    "id": 15,
+    "name": "FIFA Club World Cup",
+    "country": "World"
+  },
+  {
+    "id": 2,
+    "name": "UEFA Champions League",
+    "country": "World"
+  },
+  {
+    "id": 37,
+    "name": "World Cup - Qualification Intercontinental Play-offs",
+    "country": "World"
+  },
+  {
+    "id": 9,
+    "name": "Copa America",
+    "country": "World"
+  },
+  {
+    "id": 26,
+    "name": "International Champions Cup",
+    "country": "World"
+  },
+  {
+    "id": 531,
+    "name": "UEFA Super Cup",
+    "country": "World"
+  },
+  {
+    "id": 11,
+    "name": "CONMEBOL Sudamericana",
+    "country": "World"
+  },
+  {
+    "id": 13,
+    "name": "CONMEBOL Libertadores",
+    "country": "World"
+  },
+  {
+    "id": 541,
+    "name": "CONMEBOL Recopa",
+    "country": "World"
+  }
+]
