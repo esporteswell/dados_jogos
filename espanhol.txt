@@ -3,5 +3,5 @@
     "id": 140,
     "name": "La Liga",
     "country": "Spain"
-  },
+  }
 ]
